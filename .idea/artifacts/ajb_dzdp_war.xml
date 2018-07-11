@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ajb-dzdp:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="ajb-dzdp.war">
+      <element id="artifact" artifact-name="ajb-dzdp:war exploded" />
+    </root>
+  </artifact>
+</component>
